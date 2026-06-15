@@ -31,9 +31,9 @@ This task is part of the **Machine Learning Internship at CodeAlpha**.
 - *Recall*
 - *F1-Score*
 - *ROC-AUC Score*
-- **Confusion Matrix (visual)**
-- **Feature Importance Plot**
-- **ROC Curve**
+- *Confusion Matrix (visual)*
+- *Feature Importance Plot*
+- *ROC Curve*
 
 
 
